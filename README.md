@@ -28,4 +28,4 @@ I'm a **Front-End Developer**. I love exploring new technologies and applying th
 
 ### Reach me out
 
-<a target="_blank" href="https://www.linkedin.com/in/Werya-Majidi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp; <a target="_blank" href="https://t.me/wryamajidi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>&nbsp; <a target="_blank" href="mailto:WeryaMajidi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/Werya-Majidi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp; <a target="_blank" href="mailto:WeryaMajidi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;
